@@ -1,0 +1,455 @@
+.header{
+    background: url("BD-en-20240326-popsignuptwoweeks-perspective_alpha_website_large.jpg") center center/cover no-repeat;
+    
+
+}
+@media screen and (max-width:900px ) and (min-widht:1224px) 
+
+{
+    .header{
+        background: url("BD-en-20240326-popsignuptwoweeks-perspective_alpha_website_large.jpg") center center/cover no-repeat;
+        
+    
+    }
+    .movie{
+        display: flex;
+        flex-direction: row;
+        border: 1px solid rgb(24, 7, 7);
+        height: 170px ;
+        background-color: rgb(10, 9, 9);
+        justify-content: space-between;
+    }
+    .dunki img{
+     width: 125px ;
+    height: 160px ; 
+    position: relative;
+    border-radius: 7px ;
+    }
+    .one img{
+        position: absolute;
+        top: 20%;
+        height: 40px ;
+        width: 40px ;
+        border: none;
+        background-color: rgb(145, 199, 196); 
+        transform: translateY(29%);
+        border-radius: 0%;
+    }
+
+}
+.left img{
+width: 100px ;
+margin: 7px 0px 0px 10px ;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    height: 4000px ;
+}
+.btn{
+    display: block;
+    position: absolute;
+    right: 10px ;
+    top: 0;
+    margin: 7px 0px 0px 0px ;
+    font-family: cursive;
+border-radius: 7px ;
+    background-color: red;
+    color: white;
+    font-size: 18px ;
+    border: 1px solid red;
+}
+a{
+text-decoration: none;
+}
+.btn a{
+    color: white;
+}
+.mid{
+    /* border: 2px solid red; */
+    color: white;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin: 80px 0px 0px 0px ;
+height: 360px ;
+}
+h2{
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
+.span{
+    text-align: center;
+    font-size: 17px ;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-shadow: 5px 5px 10px black;
+}
+.spa{
+line-break: auto;
+    text-align: center;
+    font-size: 17px ;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-shadow: 5px 5px 10px black;
+}
+input{
+    border: 1px solid rgb(236, 189, 189);
+    border-radius: 6px ;
+    background-color: black;
+}
+.input input{
+    display: block;
+    margin: auto;
+    width: 85%;
+    height: 40px ;
+    transform: translateY(30%);
+    color: white;
+}
+.button button{
+    display: block;
+    margin:25px  auto;
+    width: 35%;
+    height: 50px ; 
+font-size: 17px ;
+font-family: cursive;
+border-radius: 7px ;
+    background-color: red;
+    color: white;
+}
+.fa-greater-than{
+    margin: 0px 0px 0px 10px ;
+}
+.button button:hover{
+    background-color: rgb(199, 47, 47);
+}
+.default-ltr-cache-dulgtd {
+    box-sizing: border-box;
+    overflow-x: hidden;
+    position: relative;
+    height: 8.25rem;
+    z-index: 1;
+    transform: translateY(-1%);
+    background-color: black;
+}
+.default-ltr-cache-1f97ztc {
+    width: 200%;
+    left: -50%;
+    
+}
+.default-ltr-cache-1f97ztc {
+    box-sizing: border-box;
+    position: absolute;
+    height: 100%;
+    top: 0;
+    
+    margin: auto;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border: solid  transparent;
+    border-top-left-radius: 50% 100%;
+    border-top-right-radius: 50% 100%;
+    border-bottom: none;
+    background: radial-gradient(50% 500% at 50% -420%, rgba(64, 97, 231, 0.4) 80%, rgba(0, 0, 0, 0.1) 100%), black;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+}
+.default-ltr-cache-qku0ge * {
+    box-sizing: border-box;
+}
+.default-ltr-cache-1f97ztc:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+    margin-top: -.25rem;
+    border-radius: inherit;
+    background: linear-gradient(to right, rgba(33, 13, 22, 1) 16%, rgba(184, 40, 105, 1), rgba(229, 9, 20, 1), rgba(184, 40, 105, 1), rgba(33, 13, 22, 1) 84%);
+  
+}
+.boy{
+    color: rgb(236, 218, 218);
+border: 2px solid rgb(68, 52, 52); 
+display: block;
+margin: 1px auto;
+width: 45%;
+transform: translateY(40%);
+height: 120px ;
+position: absolute;
+left: 27.5%;
+background-color: rgb(54, 41, 41);
+box-shadow: 10px 10px 100px black;
+border-radius: 15px ;
+}
+.h4{
+    margin: 10px 0px 0px 10px ;
+    font-size: 25px ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.italy{
+    font-size: 20px ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px 0px 0px 10px ;
+}
+.boy:hover{
+    transition: all;
+    transition-duration: 2s;
+    width: 45%;
+    height: 130px ;
+}
+.trend{
+     border: 1px solid black; 
+    color: white;
+    background-color: black;
+height: 180px ;
+}
+.h3{
+    margin: 30px 0px 0px 20px ;
+    font-size: 18px ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.game{
+    border: 1px solid rgb(95, 81, 81);
+    margin: 10px 0px 0px 17px ;
+    display: block;
+    width: 90%;
+    padding: 10px 0px 0px 10px ;
+    border-radius: 5px ;
+    height: 35px ; 
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 18px ;
+}
+.fa-angle-down{
+    position: absolute;
+    right: 10%;
+    transform: translateY(40%);
+    font-size: 15px ;
+}
+.movie{
+    display: flex;
+    flex-direction: row;
+    border: 1px solid rgb(24, 7, 7);
+    height: 170px ;
+    background-color: rgb(10, 9, 9);
+    justify-content: space-between;
+}
+.dunki img{
+ width: 125px ;
+height: 160px ; 
+position: relative;
+border-radius: 7px ;
+}
+.one img{
+    position: absolute;
+    top: 98%;
+    height: 40px ;
+    width: 40px ;
+    border: none;
+    background-color: rgb(145, 199, 196); 
+    transform: translateY(29%);
+    border-radius: 50%;
+}
+.arow{
+    /* border: 2px solid red; */
+    width: 25px ;
+    height: 125px ;
+    transform: translateY(18%);
+    background-color: rgb(56, 36, 36);
+    border-radius: 12px ;
+    /* margin: 0px 0px 0px 5px ; */
+}
+.arow .fa-greater-than{
+    transform: translateY(100%);
+    margin: 35px 0px 0px 7px ;
+color: rgb(243, 215, 215);
+}
+.puz{
+color: white;
+display: inline-block;
+margin-top: 25px ;
+margin-left: 19px ;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.puzzle{
+    height: 370px ;
+background-color: black;
+position: relative;
+}
+.h5{
+    color: white;
+    font-size: 24px ;
+    margin-top: 13px ;
+    margin-left: 13px ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p{
+font-size:15px  ;
+color: white;
+margin: 5px 0px 0px 12px ;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-shadow: 5px 5px 10px black;
+}
+.cart{
+    color: wheat;
+    border: 2px solid  rgb(54, 41, 41) ;
+    height: 290px ;
+    width: 390px ;
+    margin-top: 12px ;
+    margin-left: 16px ;
+    border-radius: 12px ;
+    background-color: rgb(54, 41, 41);
+}
+.puzzle img{
+    /* border: 2px solid red; */
+    position: absolute;
+    width: 210px ;
+
+    margin-left: 190px ;
+    height: 180px ;
+    transform: translateY(-10%);
+}
+.down{
+    border: 2px solid black;
+    height: 580px ;
+    background-color: black;
+}
+.the{
+color: white;   
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+margin-top: 25px ;
+font-size: 22px ;
+margin-left: 20px ;
+}
+.up{
+    color: white;
+    /* border: 1px solid rgb(100, 84, 84); */
+    height: 120px ;
+    border-radius: 15px ;
+    margin: 10px 10px 10px 10px ;
+position: relative;
+background: linear-gradient(149deg, #192247 0%, #210e17 99.08%);
+    
+}
+.girl{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 15px 0px 0px 10px ;
+    font-size: 22px ;
+
+}
+.ph img{
+    width: 50px ;
+    position: absolute;
+    right: 2%;
+    margin-top: 20px ;
+    height: 50px ;
+
+
+}
+.ques{
+    border: 2px solid rgb(12, 9, 9);
+    height: 550px ;
+    background-color: black;
+}
+.h1{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px ;
+    margin-top: 35px ;
+    margin-left: 23px ;
+}
+.model{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 24px 0px 0px 15px ;
+    font-size: 18px ;
+    /* background-color: rgb(54, 41, 41); */
+}
+.mode{
+    /* border: 2px solid blue; */
+    height: 70px ;
+    margin: 10px 10px 10px 10px ;
+    background-color: rgb(54, 41, 41);
+    border-radius: 2px ;
+}
+.fa-plus{
+    position: absolute;
+    right: 5%;
+    font-size: 20px  ;
+}
+.last{
+    border: 2px solid rgb(10, 1, 1);
+    height: 230px ;
+    background-color: black;
+}
+.part{
+    color: white;
+    font-size: 17px ;
+    font-family: Arial, Helvetica, sans-serif;
+margin-top: 45px ;
+margin-left: 15px ;
+text-shadow: 10px 10px 100px rgb(1, 14, 10);
+}
+.end{
+border: 2px solid black;
+height: 657px ;
+background-color: black;
+ padding: 25px 0px 0px 10px ; 
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.ed a{
+    color: white;
+    text-decoration: underline;
+transform: translateY(100%);
+font-size: 18px ;
+    margin-left: 30px ;
+    padding: 50px 10px 10px 0px ; 
+    line-height: 60px ;
+}
+.last-one a{
+line-height: 40px ;
+    
+
+}
+.google{
+    border: 2px solid black;
+    height: 100px ;
+    background-color: black;
+}
+.google img{
+    filter: invert();
+    height: 20px ;
+    position: relative;
+    padding: 17px 0px 0px 17px ;
+}
+.spoon{
+    color: white;
+ margin: 0px 0px 0px 15px ;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.goo{
+    border: 1px solid rgb(129, 88, 88);
+    margin: 10px 0px 0px 40px ;
+    max-width:130px  ;
+    border-radius: 4px ;
+}
+.tea{
+    color: white;
+    padding-left: 50px ;
+    margin-top: 20px ;
+    display: inline-block;
+    font-size: 14px ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+
+
+
